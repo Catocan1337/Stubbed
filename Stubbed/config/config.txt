@@ -1,0 +1,6 @@
+ratelimit=1
+proxies=false
+bypass=true
+optimize=true
+accounts=1
+premium=false
